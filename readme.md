@@ -1,4 +1,4 @@
-##Heyoo everyone, welcome to my git guide!
+##Welcome to Git!
+This is coming from dev-kimo v2
 Yo, Johnny here!
-hello
 I am adding this feature form momo branch
